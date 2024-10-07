@@ -108,10 +108,3 @@ Feel free to contribute by opening issues, submitting pull requests, or suggesti
 3. Commit your changes.
 4. Push your changes and create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the repository URL, logo link, and any details based on your project structure. Let me know if you need more modifications!
