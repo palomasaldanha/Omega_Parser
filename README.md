@@ -1,6 +1,18 @@
 # OMEGA Combo Parser Tool
 
-![OMEGA Logo](https://path_to_logo_image_if_any) 
+```
+░░      ░░░  ░░░░  ░░        ░░░      ░░░░      ░░░░░░░░    
+▒  ▒▒▒▒  ▒▒   ▒▒   ▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒  ▒▒▒▒▒▒▒    
+▓  ▓▓▓▓  ▓▓        ▓▓      ▓▓▓▓  ▓▓▓   ▓▓  ▓▓▓▓  ▓▓▓▓▓▓▓    
+█  ████  ██  █  █  ██  ████████  ████  ██        ███████    
+██      ███  ████  ██        ███      ███  ████  ███████    
+                                                            
+░       ░░░░      ░░░       ░░░░      ░░░        ░░       ░░
+▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒  ▒
+▓       ▓▓▓  ▓▓▓▓  ▓▓       ▓▓▓▓      ▓▓▓      ▓▓▓▓       ▓▓
+█  ████████        ██  ███  █████████  ██  ████████  ███  ██
+█  ████████  ████  ██  ████  ███      ███        ██  ████  █
+```
 
 This **OMEGA Combo Parser Tool** is designed to parse text files containing leaked credentials with the format `URL:USER:PASS` (or variations). The tool processes large datasets containing such credentials, identifies patterns, and writes the extracted data to a CSV file with columns for file name, hash, URL, username, and password. It also skips already processed files using a hash check to avoid redundant processing.
 
