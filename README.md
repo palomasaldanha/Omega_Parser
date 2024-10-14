@@ -120,3 +120,10 @@ Feel free to contribute by opening issues, submitting pull requests, or suggesti
 3. Commit your changes.
 4. Push your changes and create a pull request.
 
+
+Disclaimer:
+This or previous program is for Educational purpose ONLY. Do not use it without permission. 
+The usual disclaimer applies, especially the fact that me is not liable for any 
+damages caused by direct or indirect use of the information or functionality provided by these 
+programs. The author or any Internet provider bears NO responsibility for content or misuse 
+of these programs or any derivatives thereof.
